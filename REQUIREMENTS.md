@@ -59,7 +59,7 @@ I still have to figure out how to make a JS build for our example PDF using this
 ### Browser PDF plugin
 
 The built-in PDF browser plugin is already capable of searching through a PDF document. Unfortunately search and highlight functionalities are still (limited on Chromium)[https://bugs.chromium.org/p/chromium/issues/detail?id=792647].
-An example of how this may work is included here.
+An example of how this may work [is included here](https://github.com/chiruzzimarco/old-news-browser/blob/master/pdf_viewer.html).
 
 ### Adobe PDF embed API
 
